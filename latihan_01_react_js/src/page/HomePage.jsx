@@ -1,5 +1,6 @@
 
 import AboutComponent from "../components/HomeComponent/AboutComponent"
+import CategoryComponent from "../components/HomeComponent/CategoryComponent"
 import FooterComponent from "../components/HomeComponent/FooterComponent"
 import JumbotronPage from "../components/HomeComponent/JumbotronPage"
 import NavbarComponent from "../components/HomeComponent/NavbarComponent"
@@ -12,8 +13,9 @@ const HomePage = () => {
     <div>
         <NavbarComponent />
         <JumbotronPage />
-        <ServiceComponent />
         <AboutComponent />
+        <CategoryComponent />
+        <ServiceComponent />
         <FooterComponent />
        
         

@@ -4,7 +4,14 @@ const JumbotronPage = () => {
   return (
     <div>
       <div className="jumbotron">
-        <div>Welcome</div>
+     
+        <div className="container h-100 ">
+          
+          
+          <div className="row h-100 justify-content-center align-items-center">
+             
+          </div>
+        </div>
       </div>
             
     </div>
