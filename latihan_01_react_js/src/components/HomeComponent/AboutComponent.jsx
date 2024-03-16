@@ -38,7 +38,7 @@ const AboutComponent = () => {
                                      
                                         <div className="card-body">
                                             <h6 className="card-title text-center">Hacking</h6>
-                                            <p className="card-text text-center">Belajar Bahasa Tentang Hacking</p>
+                                            <p className="card-text text-center">Belajar Tentang Hacking</p>
                                         </div>
                                     </div>
                                 </div>

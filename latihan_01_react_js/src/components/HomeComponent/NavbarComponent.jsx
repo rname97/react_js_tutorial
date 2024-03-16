@@ -24,6 +24,7 @@ const NavbarComponent = () => {
                     <a className="nav-link active" aria-current="page" href="/blog">Blog</a>
                 </li>
             </ul>
+            <a className="btn btn-primary" aria-current="page" href="/login">Login</a>
             <form className="d-flex">
                 <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
                 
